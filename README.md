@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I'm Jisoo Choi, studying Back-end development.<br/> 
+I'm Jisoo Choi, and I work as a Backend developer.<br/> 
 I really love embracing challenges and find immense joy in expanding my horizons.
 <br></br>
 
